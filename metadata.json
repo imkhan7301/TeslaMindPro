@@ -1,0 +1,8 @@
+{
+  "name": "TeslaMind Pro",
+  "description": "An advanced Tesla fleet management and performance analytics dashboard powered by Gemini AI. Monitor vehicle health, energy efficiency, and receive AI-driven insights for your sustainable journey.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
